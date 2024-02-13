@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My name is Geisa, HR professional, venturing into the world of programming. I'm vegan and love to read. 🌱📚
+My name is Geisa, a Front-end developer student, based in Berlin, who recently discovered a passion about creating beautiful, responsive websites and apps.
 
-At the moment I'm studying german 🇩🇪 and web dev. 👩🏻‍💻
-I love playing with CSS 🌈 and I'm still not a big fan of Javascript, but who knows in the future. ☺️
 
 <!--
 **geisalopes/geisalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
