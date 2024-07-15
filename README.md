@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Geisa, a Front-end developer student, based in Berlin, who recently discovered a passion about creating beautiful, responsive websites and apps.
+My name is Geisa, a front-end developer student, based in Berlin, who recently discovered a passion about creating beautiful, responsive websites and apps.
 
 
 <!--
